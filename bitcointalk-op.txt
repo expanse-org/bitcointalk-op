@@ -8,7 +8,7 @@ Expanse was built as a community-based project without an ICO, (Initial Coin Off
 The Expanse platform now has a two-year history of consistent growth and stability. Starting out small, but with big ideas, the team is growing and other projects are now coming on board to help make the dream a reality—limited only by the imagination and talent of all the diverse people around the world involved in the journey. Each new community member and partner brings new ideas and visions for the future. Expanse.Tech plans to be one of the top blockchain projects in the world. Won’t you join us on this adventure? Start learning more about Expanse today!
 
 [b]Our Goal[/b]
-Our goals for expanse are to create, a new form of identity, a new form of governance, a new form of charity, a new form of commerce, and a new form of equity model. All the ideas in work together to form the EXP.DAO. But also each piece can act as an individualized service.
+Our goals for Expanse are to create, a the most advanced forms of identity, governance, charity, commerce, and equity model. All the services work together to form the EXP.DAO. But also each piece can act as an individualized service.
 
 Identity - [url=http://www.borderless.tech]BIMS (borderless identity management system)[/url]
 Equity - [url=http://www.tokenlab.io]Token Lab[/url]
@@ -19,6 +19,7 @@ Charity - [url=http://www.borderlesscharity.org]Borderless Charity[/url]
 [b]Our Partners[/b]
 [table]
 [tr]
+[td][/td]
 [td][img width=150]http://www.expanse.tech/img/partners/azure.jpg[/img][/td]
 [td][img width=150]http://www.expanse.tech/img/partners/bizspark.jpg[/img][/td]
 [td][img width=150]http://www.expanse.tech/img/partners/centurylink.jpg[/img][/td]
@@ -27,7 +28,6 @@ Charity - [url=http://www.borderlesscharity.org]Borderless Charity[/url]
 [td][img width=150]http://www.expanse.tech/img/partners/jaxx.jpg[/img][/td]
 [/tr]
 [/table]
-
 
 [b]Technical Stats[/b]
 [list]
