@@ -57,6 +57,7 @@ http://exp.akasha-pool.eu
 https://expanse.miningpoolhub.com
 http://clona.ru:8083/
 http://exp.digger.ws/
+http://exp.minerpool.net/
 
 [b]Exchanges[/b]
 https://poloniex.com/exchange#btc_exp
