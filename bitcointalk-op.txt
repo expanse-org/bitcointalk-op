@@ -49,6 +49,7 @@ https://github.com/ocminer/ethcore-pool-mpos
 https://github.com/expanse-org/expanse-proxy
 
 [b]Pools[/b]
+https://2miners.com/
 http://pool.expanse.tech
 https://exp.suprnova.cc/
 http://dwarfpool.com/exp
